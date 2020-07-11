@@ -16,7 +16,7 @@ Ehmad Saeed here, starting with an **E**
 #### How to reach me:
 
 - Have a look at my **[Personal Website](https://ehmadsaeed.me/)**
-- Drop a mail at **[justehmadsaeed@gmail.com](mailto:justehmadsaeed@gmail.com)**
+- Drop an email at **[justehmadsaeed@gmail.com](mailto:justehmadsaeed@gmail.com)**
 - Follow me on **[Twitter](https://twitter.com/justEhmadSaeed)**
 - Add me on **[Facebook](https://www.facebook.com/justEhmadSaeed)**
 - Let's exchange favs on **[Instagram](https://www.instagram.com/justEhmadSaeed)** 😉
