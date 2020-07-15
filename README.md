@@ -14,7 +14,7 @@
   <img align="left" alt="@justEhmad Saeed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
-<a href="ttps://www.instagram.com/justEhmadSaeed">
+<a href="https://www.instagram.com/justEhmadSaeed">
     <img align="left" alt="@justEhmadSaeed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
