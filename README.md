@@ -1,4 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px"> Hello World!
+### Hello World! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px"> 
 
 ### [Ehmad Saeed](https://ehmadsaeed.me/) here, starting with an **E**
 
@@ -37,6 +37,8 @@
 - I’m currently working on creating open-source web & mobile apps
 
 ![Ehmad's github stats](https://github-readme-stats.vercel.app/api?username=justEhmadSaeed&show_icons=true&hide_border=true)
+
+
 <!--
 
 Here are some ideas to get you started:
