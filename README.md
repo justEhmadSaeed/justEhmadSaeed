@@ -1,7 +1,6 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px"> 
 
 ### [Ehmad Saeed](https://ehmadsaeed.me/) here, starting with an **E**
-<p align="center">
 <a href="mailto:justehmadsaeed@gmail.com">
   <img  alt="justehmadsaeed@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" />
 </a>
@@ -24,7 +23,6 @@
 <a href="https://medium.com/@justEhmadSaeed" target="_blank">
     <img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt = "Medium" />
   </a>
-</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
