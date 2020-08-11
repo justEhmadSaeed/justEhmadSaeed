@@ -1,6 +1,6 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
 
-### [Ehmad Saeed](https://ehmadsaeed.me/) here, starting with an **E**
+### [Ehmad Saeed](https://ehmadsaeed.me/) here!
 
 <p align="center">
 <a href="mailto:justehmadsaeed@gmail.com">
@@ -28,12 +28,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### 🌱
+- 👯 Current [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
-- I’m currently learning Reactjs & Nodejs for web development & Flutter for Mobile App Development
-- I often try to tackle some Graphics Designing too
+- 👨‍👩‍👧‍👦 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2020 as Creative & Management Lead
 
-### 🔭 I’m currently working on creating open-source web & mobile apps
+- 🌱 Currently chasing Reactjs & Nodejs for web development & Flutter for Mobile App Development.
+
+- 🎨 Tackles Graphics Designing & draw illustations as a hobby.
+
+- ⚡ Working on creating open-source web & mobile apps.
 
 ![Ehmad's github stats](https://github-readme-stats.vercel.app/api?username=justEhmadSaeed&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justEhmadSaeed&hide=TeX&layout=compact)
