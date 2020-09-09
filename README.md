@@ -28,15 +28,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👯 Current [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
+#### 👯 Current [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
-- 👨‍👩‍👧‍👦 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2020 as Creative & Management Lead
+#### 👨‍👩‍👧‍👦 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2020 as Creative & Management Lead
 
-- 🌱 Currently chasing Reactjs & Nodejs for web development & Flutter for Mobile App Development.
+#### 🌱 Currently chasing Reactjs & Nodejs for web development & Flutter for Mobile App Development.
 
-- 🎨 Tackles Graphics Designing & draw illustations as a hobby.
+#### 🎨 Tackles Graphics Designing & draw illustations as a hobby.
 
-- ⚡ Working on creating open-source web & mobile apps.
+#### ⚡ Working on creating open-source web & mobile apps.
 
 ![Ehmad's github stats](https://github-readme-stats.vercel.app/api?username=justEhmadSaeed&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justEhmadSaeed&hide=css&layout=compact&theme=tokyonight)
