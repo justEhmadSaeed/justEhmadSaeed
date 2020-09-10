@@ -30,7 +30,7 @@
 
 #### 👯 Current [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
-#### 👨‍👩‍👧‍👦 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2020 as Creative & Management Lead
+#### 👨‍👩‍👧‍👦 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021
 
 #### 🌱 Currently chasing Reactjs & Nodejs for web development & Flutter for Mobile App Development.
 
