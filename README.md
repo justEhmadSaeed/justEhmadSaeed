@@ -39,7 +39,7 @@
 #### ⚡ Working on creating open-source web & mobile apps.
 
 ![Ehmad's github stats](https://github-readme-stats.vercel.app/api?username=justEhmadSaeed&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justEhmadSaeed&hide=css&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justEhmadSaeed&hide=scss&layout=compact&theme=tokyonight)
 
 ### Top Languages & Tools
 
