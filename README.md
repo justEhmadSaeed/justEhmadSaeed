@@ -1,5 +1,4 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
-
 ### [Ehmad Saeed](https://ehmadsaeed.me/) here!
 
 <p align="center">
@@ -28,6 +27,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+![](https://komarev.com/ghpvc/?username=justEhmadSaeed&color=blueviolet&label=Profile+Views)
+
 #### 👯 Current [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
 #### 🤗 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021
@@ -53,7 +54,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
-![](https://komarev.com/ghpvc/?username=justEhmadSaeed&color=blue&label=Profile+Views)
 <!--
 
 Here are some ideas to get you started:
