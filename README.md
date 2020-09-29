@@ -35,7 +35,7 @@
 
 #### 🌱 Currently chasing Reactjs & Nodejs for web development & Flutter for Mobile App Development.
 
-#### 🎨 Graphics Designing & drawing illustations are Ehmad's hobbies.
+#### 🎨 Graphics Designing & drawing illustrations are Ehmad's hobbies.
 
 #### ⚡ Working on creating open-source web & mobile apps.
 
