@@ -21,7 +21,7 @@
 </a>
 </p>
 
-- 🎓 Pursuing a bachelor's degree in Computer Science from the University of Engineering & Technology Lahore.
+- 🎓 Pursuing a bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/).
 
 - 👯 [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
