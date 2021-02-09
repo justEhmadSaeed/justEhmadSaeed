@@ -23,7 +23,7 @@
 
 - 🎓 Pursuing a bachelor's degree in Computer Science from the University of Engineering & Technology Lahore.
 
-- 👯 Current [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
+- 👯 [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
 - 🤗 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021
 
