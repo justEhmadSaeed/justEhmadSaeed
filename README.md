@@ -3,20 +3,17 @@
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=justEhmadSaeed&color=blueviolet&label=Profile+Views)
-<a href="mailto:justehmadsaeed@gmail.com">
-<img  alt="justehmadsaeed@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-</a>
 <a href="https://twitter.com/justEhmadSaeed">
 <img alt="@justEhmad Saeed | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>  <a href="https://www.linkedin.com/in/justehmadsaeed/">
+<img alt="EhmadSaeed | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> <a href="https://medium.com/@justEhmadSaeed" target="_blank">
 </a>
 <a href="https://www.facebook.com/justEhmadSaeed">
 <img  alt="@justEhmad Saeed | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/justEhmadSaeed">
 <img alt="@justEhmadSaeed | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/justehmadsaeed/">
-<img alt="EhmadSaeed | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> <a href="https://medium.com/@justEhmadSaeed" target="_blank">
 <img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
 </a>
 </p>
@@ -27,9 +24,9 @@
 
 - 🤗 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021
 
-- 🌱 Currently chasing Reactjs & Nodejs for web development & Flutter for Mobile App Development.
+- 🌱 Currently chasing MERN Stack for web development & Flutter for Mobile App Development.
 
-- 🎨 Graphics Designing & drawing illustrations are Ehmad's hobbies.
+- 🎨 Hobbies: Graphics Designing & digital illustrations
 
 - ⚡ Working on creating open-source web & mobile apps.
 
