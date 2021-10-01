@@ -23,9 +23,9 @@
 
 #### 〆 👯 [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
-#### 〆 🤗 Core Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021
+#### 〆 🤗 Former Core Team Lead of [Google Developers Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021
 
-#### 〆 😎 IEEE Brand Ambassador
+#### 〆 😎 IEEE Brand Ambassador & Chairperson of Computational Intelligence Society
 
 #### 〆 🌱 MERN Stack Developer for web development & Flutter for Mobile App Development.
 
