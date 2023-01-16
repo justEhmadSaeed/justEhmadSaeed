@@ -19,7 +19,7 @@
 </a>
 </p>
 
- 〆  Full Stack Software Enginner at [Arbisoft](https://arbisoft.com/) 👨🏻‍💻
+ 〆  Full Stack Software Engineer at [Arbisoft](https://arbisoft.com/) 👨🏻‍💻
  
  〆  Bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/) 🎓
 
