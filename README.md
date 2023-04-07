@@ -1,8 +1,6 @@
-### Hello World, [Ehmad Saeed](https://ehmadsaeed.me/) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
-
-<p align="center">
-
 [![](https://visitcount.itsvg.in/api?id=justEhmadSaeed&icon=2&color=0)](https://visitcount.itsvg.in)
+
+### Hello World, [Ehmad Saeed](https://ehmadsaeed.me/) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
 
 # 💫 About Me:
 
