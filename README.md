@@ -6,9 +6,11 @@
 
 👨🏻‍💻 Working as a Full Stack JavaScript Software Engineer at [Arbisoft](https://arbisoft.com/)
 
+🙏🏻 Content Contributor at [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
 🎓 Completed BSCS from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
-👯 Creating and looking for collaborations to work on open-source content
+👯 Creating and contributing to open-source code & content
 
 🔰 Community Affiliations:
 
