@@ -75,10 +75,6 @@
 
 [![](https://gtce.itsvg.in/api?username=justEhmadSaeed)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 
 ## 💰 You can help me by buying me a Coffee
