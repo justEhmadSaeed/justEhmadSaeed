@@ -71,10 +71,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=justEhmadSaeed&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=justEhmadSaeed)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 
 ## 💰 You can help me by buying me a Coffee
