@@ -4,7 +4,7 @@
 
 👨🏻‍💻 Working as a Full Stack Software Engineer at [Arbisoft](https://arbisoft.com/) and [2U/edX](https://2u.com/)
 
-🙏🏻 Content Contributor at [MDN Web Docs](https://developer.mozilla.org/en-US/)
+🙏🏻 Open-Source Contributor at [Open edX](https://openedx.org/) and [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 🎓 BSCS from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
@@ -12,17 +12,16 @@
 
 🔰 Community Affiliations:
 
-- Beta Microsoft Learn Student Ambassador
-- Core Team Lead of Google Developers Student Club UET Chapter
-- IEEE Brand Ambassador & Chairperson of Computational Intelligence Society
+- Founder of the Microsoft Learn Student Ambassador - UET Lahore
+- Former Core Team Lead of Google Developers Student Club UET Chapter
+- Former IEEE Brand Ambassador & Chairperson of Computational Intelligence Society
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justEhmadSaeed)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/justEhmadSaeed)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justEhmadSaeed)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@justEhmadSaeed)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12956040)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@justEhmadSaeed)
 
 # 💻 Tech Stack:
 
@@ -52,7 +51,6 @@
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats:
