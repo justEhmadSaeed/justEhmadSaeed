@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-👨🏻‍💻 Working as a Senior Software Engineer at [Ensemble UI]([https://arbisoft.com/](https://ensembleui.com/)) and [Atlas Health](https://atlas.health/)
+👨🏻‍💻 Working as a Senior Software Engineer at [Ensemble UI](https://ensembleui.com/) and [Atlas Health](https://atlas.health/)
 
 🙏🏻 Open-Source Contributor at [Open edX](https://openedx.org/) and [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
