@@ -6,7 +6,9 @@
 
 🙏🏻 Open-Source Contributor at [Open edX](https://openedx.org/) and [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-🎓 BSCS from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
+🎓 MS Artifical Intelligence from [LUMS](https://lums.edu.pk/)
+
+🎓 BS Computer Science from [UET Lahore](https://uet.edu.pk/)
 
 👯 Creating and contributing to open-source code & content
 
