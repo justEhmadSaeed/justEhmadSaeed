@@ -6,7 +6,7 @@
 
 🙏🏻 Open-Source Contributor at [Open edX](https://openedx.org/) and [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-🎓 MS Artifical Intelligence from [LUMS](https://lums.edu.pk/)
+🎓 MS Artificial Intelligence from [LUMS](https://lums.edu.pk/)
 
 🎓 BS Computer Science from [UET Lahore](https://uet.edu.pk/)
 
@@ -18,7 +18,7 @@
 
 - Founder of the Microsoft Learn Student Ambassador - UET Lahore
 - Former Core Team Lead of Google Developers Student Club UET Chapter
-- Former IEEE Brand Ambassador & Chairperson of Computational Intelligence Society
+- Former IEEE Brand Ambassador & Chairperson of the Computational Intelligence Society
 
 ## 🌐 Socials:
 
