@@ -1,6 +1,7 @@
-# Ehmad Saeed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=Senior+Software+Engineer;Building+Fast%2C+Reliable+Product+Systems;Full-Stack+Web+%2B+AI+Workflows;Open+Source+Advocate)](https://ehmad.dev/)
+<img width="880" height="220" alt="header" src="https://github.com/user-attachments/assets/b54e4ffc-2721-49cf-9b70-b1b87a413409" />
+
+---
 
 I care about software that is thoughtfully designed, easy to operate, and useful in the hands of real teams.
 
@@ -9,8 +10,6 @@ I care about software that is thoughtfully designed, easy to operate, and useful
 [![Twitter / X](https://img.shields.io/badge/Twitter_/_X-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/justEhmadSaeed)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12956040)
 [![Medium](https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@justEhmadSaeed)
-
----
 
 ## Professional Snapshot
 
@@ -79,7 +78,7 @@ I am a **Senior Software Engineer** building product infrastructure at **[Ignite
 - ⚡ **Advocacy & Engagement:** Former **IEEE Brand Ambassador** and Chairperson of the Computational Intelligence Society.
 
 ---
-
+<!-- 
 ## GitHub Analytics
 
 <p align="center">
@@ -87,6 +86,7 @@ I am a **Senior Software Engineer** building product infrastructure at **[Ignite
 </p>
 
 ---
+-->
 
 <p align="center">
   <i>Quietly fond of open-source craft, thoughtful product engineering, and cats. 🐈</i>
